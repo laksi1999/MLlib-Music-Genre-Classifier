@@ -1,0 +1,6 @@
+numpy
+pyspark
+nltk
+h2o_wave
+matplotlib
+wordcloud
