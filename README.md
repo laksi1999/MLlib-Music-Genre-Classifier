@@ -24,8 +24,7 @@ A video demonstration is included (190346A.mp4), showcasing:
 - Testing with a song from an untrained genre
 
 # Demo
-
-https://github.com/laksi1999/MLlib-Music-Genre-Classifier/blob/5954f6351d98a5aab925610821b450c071206d76/190346A.mp4
+https://github.com/user-attachments/assets/ce4b5556-5ebb-4a34-be8b-5dc858b58fd4
 
 ## Acknowledgments
 Inspired by Taras Matyashovskyy's work on MLlib for music classification.
