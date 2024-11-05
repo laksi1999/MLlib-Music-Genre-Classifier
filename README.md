@@ -7,13 +7,13 @@ This project implements a music genre classification system using Apache Spark's
 ```
 - /src                  # Source code for the model and interface
 - /datasets             # Contains Student_dataset.csv and Merged_dataset.csv
-- run.bat               # Batch file to launch the web interface
+- run.sh                # Batch file to launch the web interface
 - 190346A.mp4           # Video demonstration of the system
 - README.md             # Project documentation
 ```
 
 ## Usage
-1. Run the `run.bat` file to start the web interface.
+1. Run the `run.sh` file to start the web interface.
 2. Open the local URL in your web browser.
 3. Input song lyrics and click the classification button to view results.
 
